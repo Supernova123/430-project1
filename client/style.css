@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: navy;
+}
+
+#top {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#top h1 {
+  font-size: 2em;
+  color: white;
+}
+
+#top h3 {
+    font-size: 1.5em;
+}
+
+#top h3, label {
+    color: white;
+}
+
+#content {
+  margin-top: 100px;
+  font-size: 2em;
+  text-align: center;
+  display: block;
+}
+
+#top p {
+  padding-top: 10px;
+  font-size: 1.2em;
+  width: 600px;
+  margin: 0 auto;
+  color: white;
+}
+
+#content p {
+  width: 400px;
+  margin: 0 auto;
+  color: white;
+}
